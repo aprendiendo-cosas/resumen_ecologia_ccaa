@@ -6,6 +6,8 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 30 minutos.
 
+![portada](https://github.com/aprendiendo-cosas/resumen_ecologia_ccaa/raw/main/imagenes/portada.jpg)
+
 
 
 ## Objetivos 
@@ -20,6 +22,12 @@ Esta es la última sesión de la asignatura. Aunque parezca una sesión algo red
  ## Contenidos e hilo argumental
 
 A lo largo de la sesión resumiremos sobre un esquema similar al que vimos a principios de curso (ver más abajo) los conceptos principales abordados tanto en sesiones teóricas como en prácticas. 
+
+
+
+![niveles](https://github.com/aprendiendo-cosas/resumen_ecologia_ccaa/raw/main/imagenes/niveles.png)
+
+
 
 
 + Para toda la sesión se usa como guía una presentación de Prezi que está disponible en varios formatos:
