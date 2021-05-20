@@ -21,15 +21,22 @@ Esta es la última sesión de la asignatura. Aunque parezca una sesión algo red
 
  ## Contenidos e hilo argumental
 
-A lo largo de la sesión resumiremos sobre un esquema similar al que vimos a principios de curso (ver más abajo) los conceptos principales abordados tanto en sesiones teóricas como en prácticas. 
+A lo largo de la sesión resumiremos sobre un esquema similar al que vimos a principios de curso (ver más abajo) los conceptos principales abordados tanto en sesiones teóricas como en prácticas. También se encajarán en este esquema las distintas actividades de evaluación que hemos desarrollado. 
 
 
 
-![niveles](https://github.com/aprendiendo-cosas/resumen_ecologia_ccaa/raw/main/imagenes/niveles.png)
+<img src="https://github.com/aprendiendo-cosas/resumen_ecologia_ccaa/raw/main/imagenes/niveles.png" alt="niveles" style="zoom:100%;" />
+
+
+
+Tras el resumen, la imagen anterior, que contiene solo los niveles jerárquicos de organización de la vida, se transforma en una guía de las actividades realizadas durante el curso:
 
 
 
 
+
+
++ 
 + Para toda la sesión se usa como guía una presentación de Prezi que está disponible en varios formatos:
   + [Visualización en línea](https://prezi.com/view/lbL7zBEJyj0vTIcnyECB/).
   + Descarga de ejecutable para verla offline. Disponible para [Mac](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/master/presentacion/poblaciones_ecologia.zip) y para [Windows](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/master/presentacion/poblaciones_ecologia.exe).
