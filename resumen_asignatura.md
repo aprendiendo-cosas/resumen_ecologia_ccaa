@@ -10,13 +10,16 @@
 
 ## Objetivos 
 
-Esta es la última sesión de la asignatura. Aunque parezca una sesión inocente, tiene objetivos muy relevantes:
+Esta es la última sesión de la asignatura. Aunque parezca una sesión algo redundante, tiene objetivos muy relevantes:
 + Afianzar la visión de conjunto de la asignatura mediante la unión de las piezas conceptuales que hemos construido durante el curso.
 + Reiterar la relación entre marcos conceptuales teóricos y cuestiones aplicadas.
 + Reforzar la idea de integración y trascendencia a través de las escalas espaciales y temporales. 
 
+
+
  ## Contenidos e hilo argumental
-En esta sesión se suministra el siguiente material:
+
+A lo largo de la sesión resumiremos sobre un esquema similar al que vimos a principios de curso (ver más abajo) los conceptos principales abordados tanto en sesiones teóricas como en prácticas. 
 
 
 + Para toda la sesión se usa como guía una presentación de Prezi que está disponible en varios formatos:
