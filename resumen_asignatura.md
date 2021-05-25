@@ -44,15 +44,11 @@ Durante esta parte de la sesión se usa como guía una presentación de Prezi qu
 
 Tras el resumen de los conocimientos impartidos, se inicia la parte de evaluación del conocimiento adquirido por los estudiantes. Esto se realiza usando dos herramientas diferentes orientadas a los dos actores clave: estudiantes y profesor.
 
-Los estudiantes han rellenado previamente un formulario de google que tiene la estructura de un portafolio. La idea es que, al rellenarla, reflexionen sobre en qué medida han adquirido las competencias propias de la asignatura. [Este](https://aprendiendo-cosas.github.io/T_portafolio_ecologia_ccaa/guion_portafolio.html) guión muestra con detalle la estructura del mencionado portafolio. Durante esta sesión, los alumnos expondrán brevemente y de manera informal las principales conclusiones que han adquirido en relación a su forma de aprender ecología.
+Los estudiantes han rellenado previamente un formulario de google que tiene la estructura de un portafolio. La idea es que, al rellenarla, reflexionen sobre en qué medida han adquirido las competencias propias de la asignatura. [Este](https://aprendiendo-cosas.github.io/T_portafolio_ecologia_ccaa/guion_portafolio.html) guión muestra con detalle la estructura del mencionado portafolio. En el mismo guión anterior se muestran los resultados principales. Durante esta sesión, los alumnos expondrán brevemente y de manera informal las principales conclusiones que han adquirido en relación a su forma de aprender ecología.
 
-**Aquí pondremos un resumen de las exposiciones de los alumnos**
+La última parte de esta sesión consiste en la evaluación del desempeño del profesor durante las clases. Esta evaluación discurre por tres vías paralelas:
 
-
-
-La última parte de esta sesión implica la evaluación del desempeño del profesor durante las clases. Esta evaluación discurre por tres vías paralelas:
-
-+ Encuestas oficiales de la UCO. Para completarlas, haz click [aquí](https://encuestas.gestion.uco.es/). Tienes de plazo hasta el día 28 de mayo.
++ Encuestas oficiales de la UCO. Para completarlas, haz click [aquí](https://encuestas.gestion.uco.es/). Tienes de plazo hasta el día 28 de mayo. **OJO: Por alguna razón que desconozco, las encuestas están desactivadas. En cuanto sepa por qué os aviso.**
 + Buzón de sugerencias anónimo que pusimos en el moodle a principios de curso. Puedes escribir lo que quieras [aquí](https://docs.google.com/forms/d/e/1FAIpQLScgLcL6w5WpNSPzA7r5BM3MXWFi4MEqmeiOrf_PNa-aT4LqPQ/viewform). 
 + Presentación-encuesta anónima con preguntas específicas relacionadas con las sesiones teóricas, prácticas y aplicadas. Para completar esta encuesta puedes hacer click [aquí](https://www.menti.com/byb14kh2to). Si entras a la encuesta con tu móvil, puedes ir a www.menti.com y allí teclear el código **6600 2833**. También puedes ver la presentación abajo. Los resultados de esta encuesta se podrán ver aquí. 
 
@@ -60,5 +56,11 @@ La última parte de esta sesión implica la evaluación del desempeño del profe
 
 
 
-## Vídeo de las sesión
+
+
+
+
+## Vídeo de la sesión
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JcS4vwQHseA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
