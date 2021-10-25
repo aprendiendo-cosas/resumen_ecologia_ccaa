@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 2 horas.
 
-![portada](https://github.com/aprendiendo-cosas/resumen_ecologia_ccaa/raw/main/imagenes/portada.jpg)
+![portada](https://github.com/aprendiendo-cosas/resumen_ecologia_ccaa/raw/2020-2021/imagenes/portada.jpg)
 
 
 
@@ -24,17 +24,17 @@ Esta es la última sesión de la asignatura. Aunque parezca una sesión algo red
 
 A lo largo de la sesión resumiremos sobre un esquema similar al que vimos a principios de curso (ver más abajo) los conceptos principales abordados tanto en sesiones teóricas como en prácticas. También se encajarán en este esquema las distintas actividades de evaluación que hemos desarrollado. 
 
-<img src="https://github.com/aprendiendo-cosas/resumen_ecologia_ccaa/raw/main/imagenes/niveles.png" alt="niveles" style="zoom: 70%;" />
+<img src="https://github.com/aprendiendo-cosas/resumen_ecologia_ccaa/raw/2020-2021/imagenes/niveles.png" alt="niveles" style="zoom: 70%;" />
 
 Tras el resumen, la imagen anterior, que contiene solo los niveles jerárquicos de organización de la vida, se transforma en una guía de las actividades realizadas durante el curso. Las actividades teóricas se representan en color azul. Las sesiones en las que se describen cuestiones aplicadas se muestran en naranja. Las prácticas en verde y las tareas y ejercicios en morado. 
 
-![portada](https://github.com/aprendiendo-cosas/resumen_ecologia_ccaa/raw/main/imagenes/niveles_actividades.png)
+![portada](https://github.com/aprendiendo-cosas/resumen_ecologia_ccaa/raw/2020-2021/imagenes/niveles_actividades.png)
 
 
 
 Durante esta parte de la sesión se usa como guía una presentación de Prezi que está disponible en varios formatos:
 + [Visualización en línea](https://prezi.com/view/dNb3jrjrAKmoAXPDhChO).
-+ Descarga de ejecutable para verla offline. Disponible para [Mac](https://github.com/aprendiendo-cosas/resumen_ecologia_ccaa/raw/main/presentacion/resumen_ecologia_CCAA_2020-2021_mac.zip) y para [Windows](https://github.com/aprendiendo-cosas/resumen_ecologia_ccaa/raw/main/presentacion/resumen_ecologia_CCAA_2020-2021_win.exe).
++ Descarga de ejecutable para verla offline. Disponible para [Mac](https://github.com/aprendiendo-cosas/resumen_ecologia_ccaa/raw/2020-2021/presentacion/resumen_ecologia_CCAA_2020-2021_mac.zip) y para [Windows](https://github.com/aprendiendo-cosas/resumen_ecologia_ccaa/raw/2020-2021/presentacion/resumen_ecologia_CCAA_2020-2021_win.exe).
 + Descarga en formato [pdf](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/master/presentacion/presentacion_poblaciones_lowres.pdf).
 + También se puede ver incrustada a continuación:
 
@@ -44,7 +44,7 @@ Durante esta parte de la sesión se usa como guía una presentación de Prezi qu
 
 Tras el resumen de los conocimientos impartidos, se inicia la parte de evaluación del conocimiento adquirido por los estudiantes. Esto se realiza usando dos herramientas diferentes orientadas a los dos actores clave: estudiantes y profesor.
 
-Los estudiantes han rellenado previamente un formulario de google que tiene la estructura de un portafolio. La idea es que, al rellenarla, reflexionen sobre en qué medida han adquirido las competencias propias de la asignatura. [Este](https://aprendiendo-cosas.github.io/T_portafolio_ecologia_ccaa/guion_portafolio.html) guión muestra con detalle la estructura del mencionado portafolio. En el mismo guión anterior se muestran los resultados principales. Durante esta sesión, los alumnos expondrán brevemente y de manera informal las principales conclusiones que han adquirido en relación a su forma de aprender ecología.
+Los estudiantes han rellenado previamente un formulario de google que tiene la estructura de un portafolio. La idea es que, al rellenarla, reflexionen sobre en qué medida han adquirido las competencias propias de la asignatura. [Este](https://rawcdn.githack.com/aprendiendo-cosas/T_portafolio_ecologia_ccaa/2020-2021/guion_portafolio.html) guión muestra con detalle la estructura del mencionado portafolio. En el mismo guión anterior se muestran los resultados principales. Durante esta sesión, los alumnos expondrán brevemente y de manera informal las principales conclusiones que han adquirido en relación a su forma de aprender ecología.
 
 La última parte de esta sesión consiste en la evaluación del desempeño del profesor durante las clases. Esta evaluación discurre por tres vías paralelas:
 
